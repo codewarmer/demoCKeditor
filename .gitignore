@@ -1,0 +1,8 @@
+.DS_Store
+.nodemonignore
+.env
+.sass-cache/
+.bower-*
+node_modules/
+public/lib
+test/coverage/

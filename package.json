@@ -1,0 +1,27 @@
+{
+  "name": "demoCkeditor",
+  "version": "0.0.1",
+  "description": "CKeditor and Prettify demo for codewarmer.com",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/yllcompany/demockeditor"
+  },
+  "keywords": [
+    "angular",
+    "ckeditor",
+    "prettify"
+  ],
+  "author": "Victor B.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yllcompany/demockeditor/issues"
+  },
+  "homepage": "https://github.com/yllcompany/demockeditor",
+  "dependencies": {
+    "bower": "~1.2.8"
+  }
+}
